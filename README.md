@@ -65,4 +65,33 @@
 
 - [ ] [33 - Testing Fundamentals](./phase-5-dom-apis/33-testing/)
 - [ ] [34 - Development Tools](./phase-5-dom-apis/34-dev-tools/)
-- [ ] [35 - Ty
+- [ ] [35 - TypeScript Essentials](./phase-5-dom-apis/35-typescript/)
+- [ ] [36 - Modern JavaScript ES2020+](./phase-5-dom-apis/36-modern-js/)
+
+---
+
+## Repository Structure
+
+Each topic folder contains:
+- `README.md` - Concept notes and key learnings
+- `snippet-*.js` - Quick reference code examples
+- `project-*.js` - Working mini-project demonstrating concept
+- `cheatsheet.md` - One-page quick reference guide
+
+## Learning Rules
+
+✅ **One topic at a time** - No moving forward until current works  
+✅ **Step-by-step only** - No options, just clear next steps  
+✅ **Working examples** - Every concept must have runnable code  
+✅ **50-25-25 rule** - Efficient learning within 25% work allocation  
+
+## Tools
+
+- **IDE:** CodeSandbox Pro (Browser Sandboxes for learning, VM for Next.js)
+- **Browser:** Arc (dedicated to web development)
+- **Version Control:** GitHub
+- **Timeline:** 6 months to commercial-ready
+
+---
+
+**Last Updated:** October 13, 2025
