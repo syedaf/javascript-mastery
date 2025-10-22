@@ -43,7 +43,7 @@ JavaScript automatically converts types in certain operations.
 
 ## Files in This Module
 
-- `snippet-var-let-const.js` - Variable declaration examples
+- `snippet-var-let-const-hoisting.js` - Variable declaration examples
 - `snippet-data-types.js` - All primitive types with examples
 - `snippet-type-coercion.js` - Type conversion examples
 - `project-type-checker.js` - Mini project: Build a type checker tool
