@@ -1,8 +1,6 @@
-# JavaScript Mastery - 6 Month Journey
+# JavaScript Mastery 
 
 **Start Date:** October 13, 2025  
-**Goal:** Commercial-grade JavaScript application development  
-**Strategy:** One topic at a time, no moving forward until current topic works  
 
 ## Progress Tracker
 
@@ -77,21 +75,5 @@ Each topic folder contains:
 - `snippet-*.js` - Quick reference code examples
 - `project-*.js` - Working mini-project demonstrating concept
 - `cheatsheet.md` - One-page quick reference guide
-
-## Learning Rules
-
-✅ **One topic at a time** - No moving forward until current works  
-✅ **Step-by-step only** - No options, just clear next steps  
-✅ **Working examples** - Every concept must have runnable code  
-✅ **50-25-25 rule** - Efficient learning within 25% work allocation  
-
-## Tools
-
-- **IDE:** CodeSandbox Pro (Browser Sandboxes for learning, VM for Next.js)
-- **Browser:** Arc (dedicated to web development)
-- **Version Control:** GitHub
-- **Timeline:** 6 months to commercial-ready
-
----
 
 **Last Updated:** October 13, 2025
